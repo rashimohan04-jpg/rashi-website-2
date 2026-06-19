@@ -638,15 +638,15 @@ function About() {
               I like to think,<br />question, and<br />understand.
             </h2>
             <p className="text-sm leading-relaxed mb-4" style={{ color: C.black }}>
-              I study law at Gujarat National Law University, where I spend most of my time
-              engaging in thoughtful discourse that brings forth new perspectives. I&apos;m
-              deeply interested in gender, labour, and the political economy behind law.
-            </p>
-            <p className="text-sm leading-relaxed" style={{ color: C.black }}>
-              When I&apos;m not doing that, I like to write on Substack or for my college
-              magazine, Jury&apos;s Out. I also love listening to Hindustani classical music,
-              reading poetry, and spending time with my friends.
-            </p>
+  I&apos;m a final-year student at Gujarat National Law University. My primary area
+  of interest is access to justice among marginalised groups, and I am specifically
+  interested in understanding the complex relationship between law, gender, and poverty.
+</p>
+<p className="text-sm leading-relaxed" style={{ color: C.black }}>
+  Beyond academics, I like to write on Substack or for my college magazine,
+  Jury&apos;s Out. I also love listening to Hindustani classical music, reading poetry,
+  and spending time with my friends.
+</p>
           </div>
           <div className="space-y-6">
             {[
