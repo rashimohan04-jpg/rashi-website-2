@@ -171,7 +171,7 @@ const positions = [
     org: "Read Reflect Resist: A Feminist Reading Circle",
     period: "Ongoing",
     tags: ["Feminist Theory", "Reading Circle", "Campus"],
-    summary: "The feminist reading circle is my favourite thing I do on campus. Read more about this here!",
+    summary: "The feminist reading circle is my favourite thing I do on campus, every Friday.",
     paragraphs: [],
     learnings: "",
     photo: "",
